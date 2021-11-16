@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKCEZKk90xtY7eDS3faiRPriGUXCo6JHHZv/8oeJcF1GH1sDMRDbnXWkVVqfionXiL80oAz0tT/4iy3NTU3H2w==",
+  "dgSpecHash": "EQWSy0AfHoJKuxE4BpsEOsPojHyiTf/zSvKzhlpLbL12Azpv8BiH04G3jsBjeIruv2wxNv38IxaBuLxhu89Z5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lorena\\Desktop\\profesional stuff\\Aggranda\\ElectoralCampaign\\ElectoralCampaignDispatcher\\.local\\",
+  "projectFilePath": "C:\\Users\\Lorena\\Desktop\\profesional stuff\\personal projects\\ElectoralCampaign\\ElectoralCampaignDispatcher\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Lorena\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Lorena\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
